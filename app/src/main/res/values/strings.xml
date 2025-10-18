@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app_gyro</string>
+    <color name="colorPrimary">#3949AB</color>
+    <color name="colorPrimaryDark">#283593</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="safeRing">#66BB6A</color>
+    <color name="danger">#E53935</color>
+    <color name="text">#FFFFFF</color>
+    <color name="bg">#101018</color>
+</resources>
